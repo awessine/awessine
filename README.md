@@ -8,7 +8,7 @@
 ### 📫 Контакты
 
 - 📍 Иркутск, Россия  
-- 💬 Telegram: [@zlaya_p4ola](https://t.me/zlaya_p4ola)
+- 💬 Telegram: [@Lebedev_in_42](https://t.me/Lebedev_in_42)
 
 ### 🧠 Обо мне
 
