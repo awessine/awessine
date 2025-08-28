@@ -18,6 +18,8 @@
 
 Сейчас сфокусирован на **машинном обучении** и активно развиваюсь в этом направлении. Владею `Python`, `Sklearn`, `Pandas`, `TensorFlow`, `PyTorch` и другими инструментами из экосистемы ML.
 
+Получил практический опыт в задачах компьютерного зрения (OpenCV, CNN, YOLO), обработки текста и речи (RNN, трансформеры, NLP, TTS/STT), обучения с подкреплением, а также в интеграции моделей в чат-боты, веб- и мобильные приложения.
+
 Также знаком с **LlamaIndex** и основами работы с **LLM**. Готов решать прикладные задачи, учиться и развиваться в команде опытных специалистов.
 
 ---
@@ -33,6 +35,14 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="36" height="36" alt="Pandas" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">    <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-learn" />  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">    <img src="https://cdn.simpleicons.org/keras/D00000" width="36" height="36" alt="Keras" />  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="36" height="36" alt="OpenCV" />  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="36" height="36" alt="LangChain" />  </a>
+
 </p>
 
 ---
@@ -52,6 +62,20 @@
 Модель показала высокую точность на тестовой выборке. [Ссылка на проект](https://github.com/awessine/fruits_and_vegetables_classification)
 
 Технологии: **TensorFlow, Keras, NumPy**
+
+#### 🔍 Сравнение методов суперразрешения изображений
+
+Создал модель на основе сверточной нейросети (CNN) для распознавания изображений. Провёл предобработку данных, построил обучающий пайплайн и визуализировал метрики.  
+Модель показала высокую точность на тестовой выборке. [Ссылка на проект](https://github.com/awessine/Super-resolution-comparison)
+
+Технологии: **TensorFlow, OpenCV, Pillow, NumPy**
+
+#### 💬 AI-чат на основе трансформеров
+
+Чат-бот на основе трансформерной модели, способный вести диалог на разные темы.
+Реализовал выбор модели и взаимодействие с API, хранение текста, стоимости и токенов и график расходов по дням с помощью. [Ссылка на проект](https://github.com/awessine/AI-chat)
+
+Технологии: **Flutter, OpenRouter**
 
 ---
 
